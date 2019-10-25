@@ -1,0 +1,10 @@
+*.json
+*.js
+dist
+
+# angular-cli
+/src/*.json
+/src/*.js
+/src/*.ts
+/src/index.html
+/src/assets
