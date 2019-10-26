@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng8-tumit": {
+      "hosting": {
+        "ng8-tumit": [
+          "ng8-tumit"
+        ]
+      }
+    }
+  }
+}

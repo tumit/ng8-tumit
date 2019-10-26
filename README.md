@@ -10,3 +10,4 @@ Demo of Angular 8
 
 - netlify: https://docs.netlify.com/
 - firebase: https://www.positronx.io/deploy-angular-8-app-to-firebase/
+  - ng add @angular/fire

@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "ng8-tumit",
+      "public": "dist/ng8-tumit",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
